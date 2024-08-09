@@ -11,7 +11,3 @@ HANIFAH RIZKY MUFIIDAH
 M QORI RAMADHAN NASUTION
 
 HAMZAH AL FARISI
-
-Requirements :
-Python 3.7
-pip (Python package installer)
